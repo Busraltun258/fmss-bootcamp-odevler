@@ -1,2 +1,2 @@
 # fmss-bootcamp-odevler
-bootcamp sürecinde yaptığım ödevler. Eksiklerim var
+bootcamp sürecinde yaptığım ödevler.
