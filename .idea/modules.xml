@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/fmss.iml" filepath="$PROJECT_DIR$/fmss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fmss-homeworks/fmss-homeworks.iml" filepath="$PROJECT_DIR$/fmss-homeworks/fmss-homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fmssodevler.iml" filepath="$PROJECT_DIR$/.idea/fmssodevler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fmss-homeworks/BüşranurAltun/week1/week1.iml" filepath="$PROJECT_DIR$/fmss-homeworks/BüşranurAltun/week1/week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/week2.iml" filepath="$PROJECT_DIR$/week2/week2.iml" />
     </modules>
   </component>
 </project>
